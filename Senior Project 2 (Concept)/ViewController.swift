@@ -13,7 +13,32 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
+    
+    @IBOutlet weak var usernameLabel: UILabel!
+    
+    @IBOutlet weak var passwordLabel: UILabel!
+    
+    @IBAction func usernameTextField(_ sender: Any) {
+    }
+    
+    @IBAction func passwordTextField(_ sender: Any) {
+    }
+    
+    @IBAction func forgotUsernameButton(_ sender: Any) {
+    }
+    
+    @IBAction func forgotPasswordButton(_ sender: Any) {
+    }
+    
+    @IBAction func rememberMeButton(_ sender: Any) {
+    }
+    
+    @IBAction func createAccountButton(_ sender: Any) {
+    }
+    
+    @IBAction func LoginButton(_ sender: Any) {
+    }
+    
+    
 }
 
